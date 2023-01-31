@@ -1,0 +1,4 @@
+ivy-core
+torch
+matplotlib
+numpy
